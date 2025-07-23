@@ -6,3 +6,4 @@ pandas
 folium
 geopy 
 openai
+streamlit-folium
