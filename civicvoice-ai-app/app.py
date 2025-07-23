@@ -3,7 +3,6 @@ from langdetect import detect, LangDetectException
 import db
 import plotly.express as px
 import auth
-import openai
 
 # --- App Title ---
 db.init_db()
