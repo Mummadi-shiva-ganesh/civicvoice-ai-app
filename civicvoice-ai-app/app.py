@@ -3,6 +3,10 @@ from langdetect import detect, LangDetectException
 import db
 import plotly.express as px
 import auth
+import openai
+import os
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # --- App Title ---
 db.init_db()
