@@ -1,0 +1,7 @@
+streamlit
+langdetect
+# sqlite3 is part of the Python standard library
+plotly
+pandas
+folium
+geopy 
